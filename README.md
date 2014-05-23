@@ -1,4 +1,6 @@
+Autor: Ezequiel A. Nuñez
+
 Main
 ====
 
-Repo Principal del Sitio Web
+Repositorio Principal del Sitio Web
